@@ -3,5 +3,7 @@
     <string name="my_name">Nome</string>
     <string name="my_number">Número</string>
     <string name="my_msg">Mensagem</string>
+    <string name="my_sand">Salvar</string>
+    <string name="my_sand2">Calcelar</string>
 
 </resources>
